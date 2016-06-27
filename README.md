@@ -16,7 +16,7 @@ My name is Paweł and I've created this course for you guys (and girls) because 
     * [Foreword]() (Not ready yet)
     * [Git] () (Not ready yet)
     * [HTML and CSS]() (Not ready yet)
-    * [JavaScript](https://github.com/DeftCode-IT/DCFE-Course/tree/master/1.%20Fundamentals/1.2.JavaScript)
+    * [JavaScript](https://github.com/DeftCode-IT/DCFE-Course/tree/master/1.Basics/1.2.JavaScript)
 2. **Advanced**
     * [HTML and CSS]() (Not ready yet)
     * [JavaScript]() (Not ready yet)
