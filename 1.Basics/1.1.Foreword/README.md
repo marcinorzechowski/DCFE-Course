@@ -25,27 +25,27 @@ I prefer Chrome because of really good Dev Tools, especially these days.
 I want you from very beginning to write code properly, accordingly to styleguides I'm providing you. Even if you don't know HTML, CSS and JavaScript good enough to understand every good practice remember to come back to them everytime you learn something new to check if there is good practice for that.
 
 ### General
-[Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
+- [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
 
 ### HTML
-[HTML and CSS Code Guide by @mdo](http://codeguide.co/)
-[HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
+- [HTML and CSS Code Guide by @mdo](http://codeguide.co/)
+- [HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
 
 ### CSS
-[CSS Guidelines](http://cssguidelin.es/)
+- [CSS Guidelines](http://cssguidelin.es/)
 
 ### Sass
-[Sass Guidelines](https://sass-guidelin.es/)
+- [Sass Guidelines](https://sass-guidelin.es/)
 
 ### JavaScript
-[Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
-[Airbnb JavaScript Styleguide](https://github.com/airbnb/javascript)
-[Idiomatics.js Styleguide](https://github.com/rwaldron/idiomatic.js/)
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
+- [Airbnb JavaScript Styleguide](https://github.com/airbnb/javascript)
+- [Idiomatics.js Styleguide](https://github.com/rwaldron/idiomatic.js/)
 
 ### Angular
-[ToddMotto Angular 1.x Styleguide (ES2015)](https://github.com/toddmotto/angular-styleguide)
-[Angular Style Guide by mgechev](https://github.com/mgechev/angularjs-style-guide)
-[Angular 1 and 2 Style Guide by John Papa](https://github.com/johnpapa/angular-styleguide)
+- [ToddMotto Angular 1.x Styleguide (ES2015)](https://github.com/toddmotto/angular-styleguide)
+- [Angular Style Guide by mgechev](https://github.com/mgechev/angularjs-style-guide)
+- [Angular 1 and 2 Style Guide by John Papa](https://github.com/johnpapa/angular-styleguide)
 
 ***
 
