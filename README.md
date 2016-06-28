@@ -1,10 +1,10 @@
 # DeftCode's Front-end Course
 ### Content:
 1. **Basics**
-    * [Foreword]() (Not ready yet)
+    * [Foreword](https://github.com/DeftCode-IT/DCFE-Course/tree/master/1.Basics/1.1.Foreword)
     * [Git] () (Not ready yet)
     * [HTML and CSS]() (Not ready yet)
-    * [JavaScript](https://github.com/DeftCode-IT/DCFE-Course/tree/master/1.Basics/1.2.JavaScript)
+    * [JavaScript](https://github.com/DeftCode-IT/DCFE-Course/tree/master/1.Basics/1.4.JavaScript)
 2. **Advanced**
     * [HTML and CSS]() (Not ready yet)
     * [JavaScript]() (Not ready yet)
