@@ -2,7 +2,7 @@
 ### Content:
 1. **Basics**
     * [Foreword](https://github.com/DeftCode-IT/DCFE-Course/tree/master/1.Basics/1.1.Foreword)
-    * [Git] () (Not ready yet)
+    * [Git] (https://github.com/DeftCode-IT/DCFE-Course/tree/master/1.Basics/1.2.Git)
     * [HTML and CSS]() (Not ready yet)
     * [JavaScript](https://github.com/DeftCode-IT/DCFE-Course/tree/master/1.Basics/1.4.JavaScript)
 2. **Advanced**

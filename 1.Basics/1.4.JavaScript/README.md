@@ -1,6 +1,7 @@
 ## JavaScript Fundamentals
 
 #### What you should know after this chapter:
+
 1. General history of JavaScript
     * [JavaScript's History (I know you can find this boring, but you should read it)](http://www.howtocreate.co.uk/jshistory.html)
 2. Variables and functions (Including hoisting and first-class functions)
